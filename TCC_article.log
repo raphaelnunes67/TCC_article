@@ -1,30 +1,29 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2020.1.26)  5 JUL 2021 18:35
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2021.7.4)  15 DEC 2021 05:05
 entering extended mode
 **./TCC_article.tex
 (TCC_article.tex
-LaTeX2e <2019-10-01> patch level 3
-(IEEEtran.cls
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-09-03> (IEEEtran.cls
 Document Class: IEEEtran 2007/03/05 V1.7a by Michael Shell
 -- See the "IEEEtran_HOWTO" manual for usage information.
 -- http://www.michaelshell.org/tex/ieeetran/
-\@IEEEtrantmpdimenA=\dimen102
-\@IEEEtrantmpdimenB=\dimen103
-\@IEEEtrantmpcountA=\count80
-\@IEEEtrantmpcountB=\count81
-\@IEEEtrantmptoksA=\toks14
+\@IEEEtrantmpdimenA=\dimen134
+\@IEEEtrantmpdimenB=\dimen135
+\@IEEEtrantmpcountA=\count168
+\@IEEEtrantmpcountB=\count169
+\@IEEEtrantmptoksA=\toks15
 LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 3
 66.
-("C:\Users\Raphael\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\ot1ptm.fd
-"
+(C:\Program Files\MiKTeX\tex/latex/psnfss\ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
 -- Using 8.5in x 11in (letter) paper.
 -- Using PDF output.
-\@IEEEnormalsizeunitybaselineskip=\dimen104
+\@IEEEnormalsizeunitybaselineskip=\dimen136
 -- This is a 10 point document.
-\CLASSINFOnormalsizebaselineskip=\dimen105
-\CLASSINFOnormalsizeunitybaselineskip=\dimen106
-\IEEEnormaljot=\dimen107
+\CLASSINFOnormalsizebaselineskip=\dimen137
+\CLASSINFOnormalsizeunitybaselineskip=\dimen138
+\IEEEnormaljot=\dimen139
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 724.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <5> not available
@@ -65,43 +64,39 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <24> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 724.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <24> not available
 (Font)              Font shape `OT1/ptm/b/it' tried instead on input line 724.
-\IEEEilabelindentA=\dimen108
-\IEEEilabelindentB=\dimen109
-\IEEEilabelindent=\dimen110
-\IEEEelabelindent=\dimen111
-\IEEEdlabelindent=\dimen112
-\IEEElabelindent=\dimen113
-\IEEEiednormlabelsep=\dimen114
-\IEEEiedmathlabelsep=\dimen115
-\IEEEiedtopsep=\skip41
-\c@section=\count82
-\c@subsection=\count83
-\c@subsubsection=\count84
-\c@paragraph=\count85
-\c@IEEEsubequation=\count86
-\abovecaptionskip=\skip42
-\belowcaptionskip=\skip43
-\c@figure=\count87
-\c@table=\count88
-\@IEEEeqnnumcols=\count89
-\@IEEEeqncolcnt=\count90
-\@IEEEtmpitemindent=\dimen116
-\c@IEEEbiography=\count91
-\@IEEEtranrubishbin=\box27
-)
-("C:\Users\Raphael\AppData\Local\Programs\MiKTeX 2.9\tex/latex/xcolor\xcolor.st
-y"
+\IEEEilabelindentA=\dimen140
+\IEEEilabelindentB=\dimen141
+\IEEEilabelindent=\dimen142
+\IEEEelabelindent=\dimen143
+\IEEEdlabelindent=\dimen144
+\IEEElabelindent=\dimen145
+\IEEEiednormlabelsep=\dimen146
+\IEEEiedmathlabelsep=\dimen147
+\IEEEiedtopsep=\skip47
+\c@section=\count170
+\c@subsection=\count171
+\c@subsubsection=\count172
+\c@paragraph=\count173
+\c@IEEEsubequation=\count174
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\c@figure=\count175
+\c@table=\count176
+\@IEEEeqnnumcols=\count177
+\@IEEEeqncolcnt=\count178
+\@IEEEtmpitemindent=\dimen148
+\c@IEEEbiography=\count179
+\@IEEEtranrubishbin=\box45
+) (C:\Users\rapha\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
 Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
 
-("C:\Users\Raphael\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\col
-or.cfg"
+(C:\Users\rapha\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: pdftex.def on input line 225.
 
-("C:\Users\Raphael\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\pdf
-tex.def"
-File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+(C:\Users\rapha\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2020/08/26 v1.2 Graphics/color driver for pdftex
 )
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
 Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
@@ -112,411 +107,348 @@ Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
 Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
-)
-("C:\Users\Raphael\AppData\Local\Programs\MiKTeX 2.9\tex/generic/soul\soul.sty"
+) (C:\Program Files\MiKTeX\tex/generic/soul\soul.sty
 Package: soul 2003/11/17 v2.4 letterspacing/underlining (mf)
-\SOUL@word=\toks15
-\SOUL@lasttoken=\toks16
-\SOUL@cmds=\toks17
-\SOUL@buffer=\toks18
-\SOUL@token=\toks19
-\SOUL@spaceskip=\skip44
-\SOUL@ttwidth=\dimen117
-\SOUL@uldp=\dimen118
-\SOUL@ulht=\dimen119
+\SOUL@word=\toks16
+\SOUL@lasttoken=\toks17
+\SOUL@cmds=\toks18
+\SOUL@buffer=\toks19
+\SOUL@token=\toks20
+\SOUL@spaceskip=\skip50
+\SOUL@ttwidth=\dimen149
+\SOUL@uldp=\dimen150
+\SOUL@ulht=\dimen151
 )
-("C:\Users\Raphael\AppData\Local\Programs\MiKTeX 2.9\tex/latex/framed\framed.st
-y"
+(C:\Program Files\MiKTeX\tex/latex/framed\framed.sty
 Package: framed 2011/10/22 v 0.96: framed or shaded text with page breaks
-\OuterFrameSep=\skip45
-\fb@frw=\dimen120
-\fb@frh=\dimen121
-\FrameRule=\dimen122
-\FrameSep=\dimen123
+\OuterFrameSep=\skip51
+\fb@frw=\dimen152
+\fb@frh=\dimen153
+\FrameRule=\dimen154
+\FrameSep=\dimen155
 )
-("C:\Users\Raphael\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphic
-x.sty"
-Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+(C:\Users\rapha\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
 
-("C:\Users\Raphael\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\keyval.
-sty"
+(C:\Users\rapha\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
-\KV@toks@=\toks20
+\KV@toks@=\toks21
 )
-("C:\Users\Raphael\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphic
-s.sty"
-Package: graphics 2019/11/01 v1.3d Standard LaTeX Graphics (DPC,SPQR)
+(C:\Users\rapha\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
 
-("C:\Users\Raphael\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\trig.st
-y"
+(C:\Users\rapha\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-("C:\Users\Raphael\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\gra
-phics.cfg"
+(C:\Users\rapha\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.c
+fg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 105.
 )
-\Gin@req@height=\dimen124
-\Gin@req@width=\dimen125
+\Gin@req@height=\dimen156
+\Gin@req@width=\dimen157
 )
-("C:\Users\Raphael\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsmath.
-sty"
-Package: amsmath 2019/11/16 v2.17d AMS math features
-\@mathmargin=\skip46
+(C:\Users\rapha\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2020/01/20 v2.17e AMS math features
+\@mathmargin=\skip52
 
 For additional information on amsmath, use the `?' option.
-
-("C:\Users\Raphael\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amstext.
-sty"
+(C:\Users\rapha\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
 Package: amstext 2000/06/29 v2.01 AMS text
 
-("C:\Users\Raphael\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsgen.s
-ty"
+(C:\Users\rapha\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
-\@emptytoks=\toks21
-\ex@=\dimen126
+\@emptytoks=\toks22
+\ex@=\dimen158
 ))
-("C:\Users\Raphael\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsbsy.s
-ty"
+(C:\Users\rapha\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
-\pmbraise@=\dimen127
+\pmbraise@=\dimen159
 )
-("C:\Users\Raphael\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsopn.s
-ty"
+(C:\Users\rapha\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
 Package: amsopn 2016/03/08 v2.02 operator names
 )
-\inf@bad=\count92
+\inf@bad=\count180
 LaTeX Info: Redefining \frac on input line 227.
-\uproot@=\count93
-\leftroot@=\count94
+\uproot@=\count181
+\leftroot@=\count182
 LaTeX Info: Redefining \overline on input line 389.
-\classnum@=\count95
-\DOTSCASE@=\count96
+\classnum@=\count183
+\DOTSCASE@=\count184
 LaTeX Info: Redefining \ldots on input line 486.
 LaTeX Info: Redefining \dots on input line 489.
 LaTeX Info: Redefining \cdots on input line 610.
-\Mathstrutbox@=\box28
-\strutbox@=\box29
-\big@size=\dimen128
+\Mathstrutbox@=\box46
+\strutbox@=\box47
+\big@size=\dimen160
 LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
-\macc@depth=\count97
-\c@MaxMatrixCols=\count98
-\dotsspace@=\muskip10
-\c@parentequation=\count99
-\dspbrk@lvl=\count100
-\tag@help=\toks22
-\row@=\count101
-\column@=\count102
-\maxfields@=\count103
-\andhelp@=\toks23
-\eqnshift@=\dimen129
-\alignsep@=\dimen130
-\tagshift@=\dimen131
-\tagwidth@=\dimen132
-\totwidth@=\dimen133
-\lineht@=\dimen134
-\@envbody=\toks24
-\multlinegap=\skip47
-\multlinetaggap=\skip48
-\mathdisplay@stack=\toks25
-LaTeX Info: Redefining \[ on input line 2858.
-LaTeX Info: Redefining \] on input line 2859.
+\macc@depth=\count185
+\c@MaxMatrixCols=\count186
+\dotsspace@=\muskip16
+\c@parentequation=\count187
+\dspbrk@lvl=\count188
+\tag@help=\toks23
+\row@=\count189
+\column@=\count190
+\maxfields@=\count191
+\andhelp@=\toks24
+\eqnshift@=\dimen161
+\alignsep@=\dimen162
+\tagshift@=\dimen163
+\tagwidth@=\dimen164
+\totwidth@=\dimen165
+\lineht@=\dimen166
+\@envbody=\toks25
+\multlinegap=\skip53
+\multlinetaggap=\skip54
+\mathdisplay@stack=\toks26
+LaTeX Info: Redefining \[ on input line 2859.
+LaTeX Info: Redefining \] on input line 2860.
 )
-("C:\Users\Raphael\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\array.sty"
+(C:\Users\rapha\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
 Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
-\col@sep=\dimen135
-\ar@mcellbox=\box30
-\extrarowheight=\dimen136
-\NC@list=\toks26
-\extratabsurround=\skip49
-\backup@length=\skip50
-\ar@cellbox=\box31
+\col@sep=\dimen167
+\ar@mcellbox=\box48
+\extrarowheight=\dimen168
+\NC@list=\toks27
+\extratabsurround=\skip55
+\backup@length=\skip56
+\ar@cellbox=\box49
 )
-("C:\Users\Raphael\AppData\Local\Programs\MiKTeX 2.9\tex/latex/mdwtools\mdwmath
-.sty"
+(C:\Program Files\MiKTeX\tex/latex/mdwtools\mdwmath.sty
 Package: mdwmath 1996/04/11 1.1 Nice mathematical things
-\sq@sqrt=\count104
+\sq@sqrt=\count192
 LaTeX Info: Redefining \sqrt on input line 84.
 )
-("C:\Users\Raphael\AppData\Local\Programs\MiKTeX 2.9\tex/latex/mdwtools\mdwtab.
-sty"
+(C:\Program Files\MiKTeX\tex/latex/mdwtools\mdwtab.sty
 Package: mdwtab 1998/04/28 1.9 Table typesetting with style
-\tab@state=\count105
-\tab@columns=\count106
-\tab@preamble=\toks27
-\tab@shortline=\toks28
-\extrarowheight=\dimen137
-\tabextrasep=\dimen138
-\arrayextrasep=\dimen139
-\smarraycolsep=\dimen140
-\smarrayextrasep=\dimen141
-\tab@width=\dimen142
-\col@sep=\dimen143
-\tab@endheight=\dimen144
-\tab@leftskip=\skip51
-\tab@rightskip=\skip52
-\fn@notes=\box32
-\fn@width=\dimen145
+\tab@state=\count193
+\tab@columns=\count194
+\tab@preamble=\toks28
+\tab@shortline=\toks29
+\extrarowheight=\dimen169
+\tabextrasep=\dimen170
+\arrayextrasep=\dimen171
+\smarraycolsep=\dimen172
+\smarrayextrasep=\dimen173
+\tab@width=\dimen174
+\col@sep=\dimen175
+\tab@endheight=\dimen176
+\tab@leftskip=\skip57
+\tab@rightskip=\skip58
+\fn@notes=\box50
+\fn@width=\dimen177
 )
-("C:\Users\Raphael\AppData\Local\Programs\MiKTeX 2.9\tex/latex/eqparbox\eqparbo
-x.sty"
+(C:\Program Files\MiKTeX\tex/latex/eqparbox\eqparbox.sty
 Package: eqparbox 2017/09/03 v4.1 Create equal-widthed boxes
-\eqp@tempdima=\skip53
-\eqp@tempdimb=\skip54
-\eqp@tabular@box=\box33
-\eqp@list@box=\box34
-\eqp@list@indent=\skip55
+\eqp@tempdima=\skip59
+\eqp@tempdimb=\skip60
+\eqp@tabular@box=\box51
+\eqp@list@box=\box52
+\eqp@list@indent=\skip61
 
-("C:\Users\Raphael\AppData\Local\Programs\MiKTeX 2.9\tex/latex/environ\environ.
-sty"
+(C:\Users\rapha\AppData\Local\Programs\MiKTeX\tex/latex/environ\environ.sty
 Package: environ 2014/05/04 v0.3 A new way to define environments
 
-("C:\Users\Raphael\AppData\Local\Programs\MiKTeX 2.9\tex/latex/trimspaces\trims
-paces.sty"
+(C:\Users\rapha\AppData\Local\Programs\MiKTeX\tex/latex/trimspaces\trimspaces.s
+ty
 Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
-)))
-("C:\Users\Raphael\AppData\Local\Programs\MiKTeX 2.9\tex/latex/url\url.sty"
-\Urlmuskip=\muskip11
+))) (C:\Users\rapha\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+\Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-(TCC_article.aux)
+(C:\Users\rapha\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
+tex.def
+File: l3backend-pdftex.def 2020-09-01 L3 backend support: PDF output (pdfTeX)
+\l__kernel_color_stack_int=\count195
+\l__pdf_internal_box=\box53
+) (TCC_article.aux)
 \openout1 = `TCC_article.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 48.
 LaTeX Font Info:    ... okay on input line 48.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 48.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 48.
 LaTeX Font Info:    ... okay on input line 48.
 LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 48.
 LaTeX Font Info:    ... okay on input line 48.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 48.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 48.
 LaTeX Font Info:    ... okay on input line 48.
 LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 48.
 LaTeX Font Info:    ... okay on input line 48.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 48.
 LaTeX Font Info:    ... okay on input line 48.
 
-("C:\Users\Raphael\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\supp
--pdf.mkii"
+(C:\Users\rapha\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
+ii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count107
-\scratchdimen=\dimen146
-\scratchbox=\box35
-\nofMPsegments=\count108
-\nofMParguments=\count109
-\everyMPshowfont=\toks29
-\MPscratchCnt=\count110
-\MPscratchDim=\dimen147
-\MPnumerator=\count111
-\makeMPintoPDFobject=\count112
-\everyMPtoPDFconversion=\toks30
+\scratchcounter=\count196
+\scratchdimen=\dimen178
+\scratchbox=\box54
+\nofMPsegments=\count197
+\nofMParguments=\count198
+\everyMPshowfont=\toks30
+\MPscratchCnt=\count199
+\MPscratchDim=\dimen179
+\MPnumerator=\count266
+\makeMPintoPDFobject=\count267
+\everyMPtoPDFconversion=\toks31
 )
-("C:\Users\Raphael\AppData\Local\Programs\MiKTeX 2.9\tex/latex/epstopdf-pkg\eps
-topdf-base.sty"
-Package: epstopdf-base 2019/11/24 v2.7 Base part for package epstopdf
-
-("C:\Users\Raphael\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\infwa
-rerr.sty"
-Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
-)
-("C:\Users\Raphael\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\grfext.
-sty"
-Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
-
-("C:\Users\Raphael\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\kvdef
-inekeys.sty"
-Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
-
-("C:\Users\Raphael\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ltxcm
-ds.sty"
-Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
-)))
-("C:\Users\Raphael\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\kvoptio
-ns.sty"
-Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
-
-("C:\Users\Raphael\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\kvset
-keys.sty"
-Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
-
-("C:\Users\Raphael\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\etexc
-mds.sty"
-Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
-
-("C:\Users\Raphael\AppData\Local\Programs\MiKTeX 2.9\tex/generic/iftex\ifluatex
-.sty"
-Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
-
-("C:\Users\Raphael\AppData\Local\Programs\MiKTeX 2.9\tex/generic/iftex\iftex.st
-y"
-Package: iftex 2019/11/07 v1.0c TeX engine tests
-)))))
-("C:\Users\Raphael\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pdftexcmds\pdfte
-xcmds.sty"
-Package: pdftexcmds 2019/11/24 v0.31 Utility functions of pdfTeX for LuaTeX (HO
-)
-Package pdftexcmds Info: \pdf@primitive is available.
-Package pdftexcmds Info: \pdf@ifprimitive is available.
-Package pdftexcmds Info: \pdfdraftmode found.
-)
+(C:\Users\rapha\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
+ase.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
-42.
-Package grfext Info: Graphics extension search list:
-(grfext)             [.pdf,.jpeg,.png,.eps]
-(grfext)             \AppendGraphicsExtensions on input line 460.
-)
+85.
+ (C:\Program Files\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 79.
+(Font)              <7> on input line 124.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 79.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 79.
+(Font)              <5> on input line 124.
 
-Underfull \hbox (badness 2343) in paragraph at lines 77--80
-[]\OT1/ptm/b/it/9 Abstract\OT1/ptm/b/n/9 ---This pa-per presents a the-o-ret-i-
-cal anal-y-sis of
- []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 127.
-[1{C:/Users/Raphael/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
+ [1{C:/Users/rapha/AppData/Local/MiKTeX/pdftex/config/pdftex.map}
 
 
 ]
-<pdf/01.pdf, id=13, 699.61375pt x 161.60374pt>
+<pdf/01.pdf, id=10, 699.61375pt x 161.60374pt>
 File: pdf/01.pdf Graphic file (type pdf)
 <use pdf/01.pdf>
-Package pdftex.def Info: pdf/01.pdf  used on input line 144.
+Package pdftex.def Info: pdf/01.pdf  used on input line 141.
 (pdftex.def)             Requested size: 252.94499pt x 58.42635pt.
 
-Overfull \hbox (0.94499pt too wide) in paragraph at lines 144--144
+Overfull \hbox (0.94499pt too wide) in paragraph at lines 141--141
  [] 
  []
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 145.
-LaTeX Font Info:    Trying to load font information for OMS+ptm on input line 2
-06.
-("C:\Users\Raphael\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\omsptm.fd
-"
-File: omsptm.fd 
-)
-LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <7> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 206.
- [2 <./pdf/01.pdf>]
-<pdf/02.pdf, id=46, 512.91624pt x 371.3875pt>
+(Font)              <8> on input line 142.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 142.
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 2
+03.
+(C:\Program Files\MiKTeX\tex/latex/psnfss\ts1ptm.fd
+File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
+) [2 <./pdf/01.pdf>]
+<pdf/02.pdf, id=43, 512.91624pt x 371.3875pt>
 File: pdf/02.pdf Graphic file (type pdf)
 <use pdf/02.pdf>
-Package pdftex.def Info: pdf/02.pdf  used on input line 216.
+Package pdftex.def Info: pdf/02.pdf  used on input line 213.
 (pdftex.def)             Requested size: 202.35622pt x 146.51794pt.
-<pdf/03.pdf, id=47, 562.8631pt x 375.32222pt>
+<pdf/03.pdf, id=44, 562.8631pt x 375.32222pt>
 File: pdf/03.pdf Graphic file (type pdf)
 <use pdf/03.pdf>
-Package pdftex.def Info: pdf/03.pdf  used on input line 225.
+Package pdftex.def Info: pdf/03.pdf  used on input line 222.
 (pdftex.def)             Requested size: 252.94499pt x 168.66435pt.
 
-Overfull \hbox (0.94499pt too wide) in paragraph at lines 225--227
+Overfull \hbox (0.94499pt too wide) in paragraph at lines 222--224
  [] 
  []
 
-[3 <./pdf/02.pdf> <./pdf/03.pdf>]
-<pdf/04.pdf, id=119, 557.80423pt x 371.82915pt>
+<pdf/04.pdf, id=45, 557.80423pt x 371.82915pt>
 File: pdf/04.pdf Graphic file (type pdf)
 <use pdf/04.pdf>
-Package pdftex.def Info: pdf/04.pdf  used on input line 301.
+Package pdftex.def Info: pdf/04.pdf  used on input line 298.
 (pdftex.def)             Requested size: 252.94499pt x 168.60948pt.
 
-Overfull \hbox (0.94499pt too wide) in paragraph at lines 301--303
+Overfull \hbox (0.94499pt too wide) in paragraph at lines 298--300
  [] 
  []
 
 
-Underfull \hbox (badness 1769) in paragraph at lines 307--308
+Underfull \hbox (badness 1769) in paragraph at lines 304--305
 \OT1/ptm/m/n/10 old volt-age are next in-ves-ti-gated as-sum-ing the rec-ti-fie
 r
  []
 
-<pdf/05.pdf, id=120, 506.89375pt x 366.36874pt>
+<pdf/05.pdf, id=46, 506.89375pt x 366.36874pt>
 File: pdf/05.pdf Graphic file (type pdf)
 <use pdf/05.pdf>
-Package pdftex.def Info: pdf/05.pdf  used on input line 328.
+Package pdftex.def Info: pdf/05.pdf  used on input line 325.
 (pdftex.def)             Requested size: 216.81pt x 156.70253pt.
-[4 <./pdf/04.pdf> <./pdf/05.pdf>]
-<pdf/06.pdf, id=178, 389.455pt x 200.75pt>
+[3 <./pdf/02.pdf> <./pdf/03.pdf>]
+Underfull \vbox (badness 5077) has occurred while \output is active []
+
+ [4 <./pdf/04.pdf> <./pdf/05.pdf>]
+<pdf/06.pdf, id=177, 389.455pt x 200.75pt>
 File: pdf/06.pdf Graphic file (type pdf)
 <use pdf/06.pdf>
-Package pdftex.def Info: pdf/06.pdf  used on input line 455.
+Package pdftex.def Info: pdf/06.pdf  used on input line 452.
 (pdftex.def)             Requested size: 216.81pt x 111.75757pt.
-<pdf/07.pdf, id=179, 420.57124pt x 316.18124pt>
+<pdf/07.pdf, id=178, 420.57124pt x 316.18124pt>
 File: pdf/07.pdf Graphic file (type pdf)
 <use pdf/07.pdf>
-Package pdftex.def Info: pdf/07.pdf  used on input line 465.
+Package pdftex.def Info: pdf/07.pdf  used on input line 462.
 (pdftex.def)             Requested size: 252.94499pt x 190.16371pt.
 
-Overfull \hbox (0.94499pt too wide) in paragraph at lines 465--465
+Overfull \hbox (0.94499pt too wide) in paragraph at lines 462--462
  [] 
  []
 
 [5 <./pdf/06.pdf> <./pdf/07.pdf>]
-<pdf/08.pdf, id=229, 285.065pt x 199.74625pt>
+<pdf/08.pdf, id=228, 285.065pt x 199.74625pt>
 File: pdf/08.pdf Graphic file (type pdf)
 <use pdf/08.pdf>
-Package pdftex.def Info: pdf/08.pdf  used on input line 508.
+Package pdftex.def Info: pdf/08.pdf  used on input line 505.
 (pdftex.def)             Requested size: 216.81pt x 151.91844pt.
-<pdf/09.pdf, id=230, 541.02126pt x 365.365pt>
+<pdf/09.pdf, id=229, 541.02126pt x 365.365pt>
 File: pdf/09.pdf Graphic file (type pdf)
 <use pdf/09.pdf>
-Package pdftex.def Info: pdf/09.pdf  used on input line 517.
+Package pdftex.def Info: pdf/09.pdf  used on input line 514.
 (pdftex.def)             Requested size: 216.81pt x 146.41658pt.
-<pdf/10.pdf, id=231, 715.67375pt x 474.77374pt>
+<pdf/10.pdf, id=230, 715.67375pt x 474.77374pt>
 File: pdf/10.pdf Graphic file (type pdf)
 <use pdf/10.pdf>
-Package pdftex.def Info: pdf/10.pdf  used on input line 541.
+Package pdftex.def Info: pdf/10.pdf  used on input line 538.
 (pdftex.def)             Requested size: 252.94499pt x 167.79605pt.
 
-Overfull \hbox (0.94499pt too wide) in paragraph at lines 541--542
+Overfull \hbox (0.94499pt too wide) in paragraph at lines 538--539
  [][] 
  []
 
 [6 <./pdf/08.pdf> <./pdf/09.pdf>]
-<pdf/11.png, id=247, 1377.145pt x 867.24pt>
+<pdf/11.png, id=246, 1377.145pt x 867.24pt>
 File: pdf/11.png Graphic file (type png)
 <use pdf/11.png>
-Package pdftex.def Info: pdf/11.png  used on input line 575.
+Package pdftex.def Info: pdf/11.png  used on input line 572.
 (pdftex.def)             Requested size: 245.71754pt x 154.73346pt.
 
-Underfull \hbox (badness 7030) in paragraph at lines 576--576
+Underfull \hbox (badness 7030) in paragraph at lines 573--573
 \OT1/ptm/m/n/8 Fig. 11.   []Time[]-[]do[]-[]main[] [][][]wave[]-[]forms[] [][][
 ]mea[]-[]sured[] [][][]at[] [][][]drain[] [][][](a)[] [][][]and[]
  []
 
 
-Underfull \hbox (badness 4531) in paragraph at lines 576--576
+Underfull \hbox (badness 4531) in paragraph at lines 573--573
 [][][]\OT1/ptm/m/n/8 gate[] [][][](b)[] [][][]of[] [][][]the[] [][][]rec[]-[]ti
 []-[]fier[] [][][]with[] [][][][]V,[] [][][][][][] [][][]and[]
  []
 
-<pdf/12.pdf, id=249, 1068.99374pt x 808.01875pt>
+<pdf/12.pdf, id=248, 1068.99374pt x 808.01875pt>
 File: pdf/12.pdf Graphic file (type pdf)
 <use pdf/12.pdf>
-Package pdftex.def Info: pdf/12.pdf  used on input line 591.
+Package pdftex.def Info: pdf/12.pdf  used on input line 588.
 (pdftex.def)             Requested size: 245.71754pt x 185.72943pt.
-<pdf/13.pdf, id=250, 549.05125pt x 374.39874pt>
+<pdf/13.pdf, id=249, 549.05125pt x 374.39874pt>
 File: pdf/13.pdf Graphic file (type pdf)
 <use pdf/13.pdf>
-Package pdftex.def Info: pdf/13.pdf  used on input line 610.
+Package pdftex.def Info: pdf/13.pdf  used on input line 607.
 (pdftex.def)             Requested size: 245.71754pt x 167.55238pt.
-<pdf/14.pdf, id=251, 427.5975pt x 290.08376pt>
+<pdf/14.pdf, id=250, 427.5975pt x 290.08376pt>
 File: pdf/14.pdf Graphic file (type pdf)
 <use pdf/14.pdf>
-Package pdftex.def Info: pdf/14.pdf  used on input line 619.
+Package pdftex.def Info: pdf/14.pdf  used on input line 616.
 (pdftex.def)             Requested size: 216.81pt x 147.08205pt.
 [7 <./pdf/10.pdf> <./pdf/11.png> <./pdf/12.pdf>]
-<pdf/15.pdf, id=270, 579.16376pt x 373.395pt>
+<pdf/15.pdf, id=269, 579.16376pt x 373.395pt>
 File: pdf/15.pdf Graphic file (type pdf)
 <use pdf/15.pdf>
-Package pdftex.def Info: pdf/15.pdf  used on input line 636.
+Package pdftex.def Info: pdf/15.pdf  used on input line 633.
 (pdftex.def)             Requested size: 245.71754pt x 158.41444pt.
  (TCC_article.bbl [8 <./pdf/13.pdf> <./pdf/14.pdf> <./pdf/15.pdf>]
 Underfull \hbox (badness 6608) in paragraph at lines 170--174
@@ -530,95 +462,92 @@ quet,
  []
 
 )
-<photo/mike.png, id=292, 278.03876pt x 348.30125pt>
+<photo/mike.png, id=291, 278.03876pt x 348.30125pt>
 File: photo/mike.png Graphic file (type png)
 <use photo/mike.png>
-Package pdftex.def Info: photo/mike.png  used on input line 822.
+Package pdftex.def Info: photo/mike.png  used on input line 819.
 (pdftex.def)             Requested size: 72.11443pt x 90.33829pt.
 File: photo/mike.png Graphic file (type png)
 <use photo/mike.png>
-Package pdftex.def Info: photo/mike.png  used on input line 822.
+Package pdftex.def Info: photo/mike.png  used on input line 819.
 (pdftex.def)             Requested size: 72.11443pt x 90.33829pt.
-<photo/tibo.png, id=295, 279.0425pt x 350.30875pt>
+<photo/tibo.png, id=294, 279.0425pt x 350.30875pt>
 File: photo/tibo.png Graphic file (type png)
 <use photo/tibo.png>
-Package pdftex.def Info: photo/tibo.png  used on input line 825.
+Package pdftex.def Info: photo/tibo.png  used on input line 822.
 (pdftex.def)             Requested size: 71.95749pt x 90.33513pt.
 File: photo/tibo.png Graphic file (type png)
 <use photo/tibo.png>
-Package pdftex.def Info: photo/tibo.png  used on input line 825.
+Package pdftex.def Info: photo/tibo.png  used on input line 822.
 (pdftex.def)             Requested size: 71.95749pt x 90.33513pt.
  [9 <./photo/mike.png> <./photo/tibo.png>]
-<photo/ignacio.png, id=304, 279.0425pt x 350.30875pt>
+<photo/ignacio.png, id=303, 279.0425pt x 350.30875pt>
 File: photo/ignacio.png Graphic file (type png)
 <use photo/ignacio.png>
-Package pdftex.def Info: photo/ignacio.png  used on input line 830.
+Package pdftex.def Info: photo/ignacio.png  used on input line 827.
 (pdftex.def)             Requested size: 71.95749pt x 90.33513pt.
 File: photo/ignacio.png Graphic file (type png)
 <use photo/ignacio.png>
-Package pdftex.def Info: photo/ignacio.png  used on input line 830.
+Package pdftex.def Info: photo/ignacio.png  used on input line 827.
 (pdftex.def)             Requested size: 71.95749pt x 90.33513pt.
-<photo/erez.png, id=307, 91.323pt x 114.6465pt>
+<photo/erez.png, id=306, 91.323pt x 114.6465pt>
 File: photo/erez.png Graphic file (type png)
 <use photo/erez.png>
-Package pdftex.def Info: photo/erez.png  used on input line 833.
+Package pdftex.def Info: photo/erez.png  used on input line 830.
 (pdftex.def)             Requested size: 71.9618pt x 90.34056pt.
 File: photo/erez.png Graphic file (type png)
 <use photo/erez.png>
-Package pdftex.def Info: photo/erez.png  used on input line 833.
+Package pdftex.def Info: photo/erez.png  used on input line 830.
 (pdftex.def)             Requested size: 71.9618pt x 90.34056pt.
-<photo/zoya.png, id=310, 279.0425pt x 350.30875pt>
+<photo/zoya.png, id=309, 279.0425pt x 350.30875pt>
 File: photo/zoya.png Graphic file (type png)
 <use photo/zoya.png>
-Package pdftex.def Info: photo/zoya.png  used on input line 836.
+Package pdftex.def Info: photo/zoya.png  used on input line 833.
 (pdftex.def)             Requested size: 71.95749pt x 90.33513pt.
 File: photo/zoya.png Graphic file (type png)
 <use photo/zoya.png>
-Package pdftex.def Info: photo/zoya.png  used on input line 836.
+Package pdftex.def Info: photo/zoya.png  used on input line 833.
 (pdftex.def)             Requested size: 71.95749pt x 90.33513pt.
  [10
 
  <./photo/ignacio.png> <./photo/erez.png> <./photo/zoya.png>] (TCC_article.aux)
  ) 
 Here is how much of TeX's memory you used:
- 4233 strings out of 492484
- 62149 string characters out of 3120695
- 164648 words of memory out of 3000000
- 8481 multiletter control sequences out of 15000+200000
- 43735 words of font info for 80 fonts, out of 3000000 for 9000
+ 3883 strings out of 481190
+ 56592 string characters out of 2905432
+ 333099 words of memory out of 3000000
+ 19422 multiletter control sequences out of 15000+600000
+ 574643 words of font info for 93 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
- 55i,19n,37p,1914b,594s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Users/Raphael/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/base/8r.e
-nc}<C:/Users/Raphael/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfo
-nts/cm/cmex10.pfb><C:/Users/Raphael/AppData/Local/Programs/MiKTeX 2.9/fonts/typ
-e1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Raphael/AppData/Local/Programs/MiKTe
-X 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/Raphael/AppData/Local
-/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi5.pfb><C:/Users/Raphael
-/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:
-/Users/Raphael/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
-/cmmi7.pfb><C:/Users/Raphael/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/publ
-ic/amsfonts/cm/cmmi8.pfb><C:/Users/Raphael/AppData/Local/Programs/MiKTeX 2.9/fo
-nts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Raphael/AppData/Local/Programs
-/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Raphael/AppData/
-Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/Ra
-phael/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb
-><C:/Users/Raphael/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfont
-s/cm/cmr7.pfb><C:/Users/Raphael/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/p
-ublic/amsfonts/cm/cmr8.pfb><C:/Users/Raphael/AppData/Local/Programs/MiKTeX 2.9/
-fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/Raphael/AppData/Local/Program
-s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmss17.pfb><C:/Users/Raphael/AppDat
-a/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users
-/Raphael/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy6
-.pfb><C:/Users/Raphael/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/ams
-fonts/cm/cmsy7.pfb><C:/Users/Raphael/AppData/Local/Programs/MiKTeX 2.9/fonts/ty
-pe1/public/amsfonts/cm/cmsy8.pfb><C:/Users/Raphael/AppData/Local/Programs/MiKTe
-X 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Users/Raphael/AppData/Local/Programs
-/MiKTeX 2.9/fonts/type1/urw/times/utmbi8a.pfb><C:/Users/Raphael/AppData/Local/P
-rograms/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Users/Raphael/AppData/L
-ocal/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on TCC_article.pdf (10 pages, 3023032 bytes).
+ 36i,19n,37p,1914b,592s stack positions out of 5000i,500n,10000p,200000b,80000s
+{C:/Users/rapha/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:
+/Users/rapha/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex1
+0.pfb><C:/Users/rapha/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts
+/cm/cmmi10.pfb><C:/Users/rapha/AppData/Local/Programs/MiKTeX/fonts/type1/public
+/amsfonts/cm/cmmi12.pfb><C:/Users/rapha/AppData/Local/Programs/MiKTeX/fonts/typ
+e1/public/amsfonts/cm/cmmi5.pfb><C:/Users/rapha/AppData/Local/Programs/MiKTeX/f
+onts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Users/rapha/AppData/Local/Programs/
+MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/rapha/AppData/Local/P
+rograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/rapha/AppData
+/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/rapha
+/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Use
+rs/rapha/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb
+><C:/Users/rapha/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/c
+mr6.pfb><C:/Users/rapha/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
+ts/cm/cmr7.pfb><C:/Users/rapha/AppData/Local/Programs/MiKTeX/fonts/type1/public
+/amsfonts/cm/cmr8.pfb><C:/Users/rapha/AppData/Local/Programs/MiKTeX/fonts/type1
+/public/amsfonts/cm/cmss17.pfb><C:/Users/rapha/AppData/Local/Programs/MiKTeX/fo
+nts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/rapha/AppData/Local/Programs/
+MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Users/rapha/AppData/Local/P
+rograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/rapha/AppData
+/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/rapha
+/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/rapha
+/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmbi8a.pfb><C:/Users/raph
+a/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/raph
+a/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
+Output written on TCC_article.pdf (10 pages, 3010414 bytes).
 PDF statistics:
- 385 PDF objects out of 1000 (max. 8388607)
+ 381 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  161 words of extra memory for PDF output out of 10000 (max. 10000000)
 
